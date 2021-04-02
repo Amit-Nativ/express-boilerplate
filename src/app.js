@@ -1,1 +1,3 @@
-console.log('hello world!')
+import { } from './config'
+
+console.log(process.env.HELLO)
