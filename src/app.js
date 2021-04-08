@@ -9,6 +9,3 @@ const startExpress = () => app.listen(process.env.PORT, () =>
 );
 
 startExpress();
-
-logger.error('error :)', 'label')
-logger.info('info :)')
